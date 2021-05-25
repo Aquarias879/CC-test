@@ -1,7 +1,8 @@
 # CC-test
 
 #Databse
-<img src="./(https://user-images.githubusercontent.com/84755221/119506827-df145200-bda0-11eb-9245-c4b93e94ad09.png)">
+![result](https://user-images.githubusercontent.com/84755221/119507948-e0924a00-bda1-11eb-88d5-07c63606e576.png)
+
 
 
 
