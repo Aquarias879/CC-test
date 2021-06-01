@@ -1,8 +1,10 @@
 # CC-test
 
-# Docker-Compose build
+# Docker Command 
 
-# Docker-compose up
+Docker-Compose build
+
+Docker-compose up
 
 
 # Databse
