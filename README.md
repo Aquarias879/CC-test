@@ -1,5 +1,3 @@
-# CC-test
-
 # Docker Command 
 
 Docker-Compose build
