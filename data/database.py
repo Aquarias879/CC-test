@@ -1,6 +1,6 @@
 import pymongo
 
-myclient = pymongo.MongoClient("mongodb://192.168.0.45:27017/")
+myclient = pymongo.MongoClient("mongodb://192.168.0.43:27017/")
 mydb = myclient["mydatabase"]
 mycol = mydb["key"]
 

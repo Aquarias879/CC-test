@@ -3,7 +3,7 @@ import time
 import database
 
 connection = pika.BlockingConnection(
-    pika.ConnectionParameters(host='192.168.0.45'))
+    pika.ConnectionParameters(host='192.168.0.43'))
 channel = connection.channel()
 
 channel.queue_declare(queue='task_queue', durable=True)
